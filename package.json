@@ -1,0 +1,24 @@
+{
+  "name": "jsonresume-theme-jacrys",
+  "version": "1.0.0",
+  "description": "A JSON Resume theme modified from M. Adam Kendall's kendall theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacrys/jsonresume-theme-jacrys.git"
+  },
+  "keywords": [
+    "\"json\"",
+    "\"jsonresume\"",
+    "\"theme\""
+  ],
+  "author": "Jacrys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacrys/jsonresume-theme-jacrys/issues"
+  },
+  "homepage": "https://github.com/jacrys/jsonresume-theme-jacrys#readme"
+}
