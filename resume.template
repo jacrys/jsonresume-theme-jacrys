@@ -87,7 +87,7 @@
                       {{/boolHighlights}}
                     </div>
                     <br />
-                    {{#boolKeywords}}
+                    {{#boolWorkSkills}}
                     <div class="skills clearfix">
                       <div class="col-sm-12 clearfix">
                         {{#skills}}

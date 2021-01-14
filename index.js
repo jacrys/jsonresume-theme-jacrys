@@ -128,7 +128,6 @@ function render(resumeObject) {
                 if (w.skills[0]) {
                     if (w.skills[0] != "") {
                         w.boolWorkSkills = true;
-                        console.log(w.boolWorkSkills);
                     }
                 }
             }
