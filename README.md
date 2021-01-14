@@ -8,7 +8,9 @@ To first get started with this JSONResume theme, you'll need to have the JSONRes
 
 After this, you can get your resume.json ready by typing `resume init`. After hitting enter, your resume will be initialized and you can edit it and fill in the neccessary fields. Check out [the official resume-schema repository](https://github.com/jsonresume/resume-schema) for more information on filling these fields.
 
-When you are finished with your resume, you may test it by yet again opening the command line and typing `resume serve --theme kendall` to see how it looks with this theme. You can replace the word `kendall` with other theme names too.
+As of 2021-01-13, my requested changes have not been added into the resume-schema, so it will still pass validation, but it will not technically be compliant with shema.
+
+When you are finished with your resume, you may test it by yet again opening the command line and typing `resume serve --theme jacrys` to see how it looks with this theme. You can replace the word `jacrys` with other theme names too.
 
 ### Install the command line
 
