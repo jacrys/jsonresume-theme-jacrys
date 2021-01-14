@@ -116,7 +116,7 @@ blockquote {
 #education .year{
   width: 14%;
   background: #fff;
-  padding: 10px;
+  padding: 10px 10px 10px 3px;
   font-weight: 700;
   display: inline-block;
 }
