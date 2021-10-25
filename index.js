@@ -46,7 +46,7 @@ function render(resumeObject) {
                     });
     }
     if (resumeObject.basics.image || resumeObject.basics.gravatar) {
-        resumeObject.photo = resumeObject.basics.image ? resumeObject.basics.image : resumeObject.basics.gravatar;
+        resumeObject.image = resumeObject.basics.image ? resumeObject.basics.image : resumeObject.basics.gravatar;
     }
 
     _.each(resumeObject.basics.profiles, function(p){
@@ -124,10 +124,10 @@ function render(resumeObject) {
                     }
                 }
             }
-            if (w.skills) {
-                if (w.skills[0]) {
-                    if (w.skills[0] != "") {
-                        w.boolWorkSkills = true;
+            if (w.keywords) {
+                if (w.keywords[0]) {
+                    if (w.keywords[0] != "") {
+                        w.boolWorkKeywords = true;
                     }
                 }
             }
