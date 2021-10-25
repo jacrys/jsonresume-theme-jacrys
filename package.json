@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-jacrys",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A JSON Resume theme modified from M. Adam Kendall's kendall theme",
   "main": "index.js",
   "scripts": {
